@@ -1,1 +1,1 @@
-# Estimation-of-Claims-cost-using-Gamma-and-Tweedie-Distribution
+## Estimating claims cost using Stacked models and Comparative analysis with individual Machine learning techniques.
